@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\abirc\source\repos\airlinedelay\airlinedelay\source.cpp(72): warning C4551: function call missing argument list
+c:\users\abirc\source\repos\airlinedelay\airlinedelay\source.cpp(128): warning C4715: 'avgDelay': not all control paths return a value
+  airlineDelay.vcxproj -> C:\Users\abirc\source\repos\airlineDelay\Debug\airlineDelay.exe
